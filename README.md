@@ -1,1 +1,1 @@
-This is a test repository, first commit
+This is a test repository, second commit
