@@ -1,2 +1,1 @@
-# test
-test repository
+This is a test repository, first commit
